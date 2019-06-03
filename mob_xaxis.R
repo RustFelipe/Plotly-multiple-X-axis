@@ -5,7 +5,7 @@ setwd("C:/Users/T430/Dropbox/PhD2/MOB")
 
 
 #Set the data
-data <- read.csv(file = "Profiles MOB and environ all together.csv", header = TRUE, sep = ",", dec = ".")
+data <- read.csv(file = "data.csv", header = TRUE, sep = ",", dec = ".")
 
 
 #create font description for axes titles and tick fonts
